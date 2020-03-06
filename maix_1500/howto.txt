@@ -1,0 +1,11 @@
+http://blog.sipeed.com/p/680.html
+http://blog.sipeed.com/p/390.html
+
+how to:
+
+Write label.zip, after unzip as label.txt in SD card.
+
+Create flash file to upload in Maix Duino Board
+create a flash-list file: model + Minimum Maix Flash
+
+

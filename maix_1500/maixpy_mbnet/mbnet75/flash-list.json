@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "files": [
+    {
+      "address": 0x200000,
+      "bin": "mbnet751.kmodel",
+      "sha256Prefix": false
+    }
+  ]
+}
